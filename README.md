@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Haseeb Khan</h1>
-<h3 align="center">A passionate frontend developer at SMIT</h3>
+<h3 align="center">A Passionate Frontend Developer At SMIT</h3>
 <img align="right" alt="coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif">
 
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/hasoo60" target="blank"><img src="https://img.shields.io/twitter/follow/hasoo60?logo=twitter&style=for-the-badge" alt="hasoo60" /></a> </p>
 
-- 🔭 I’m currently working on **https://hasoo786.github.io/My-Portfolio/**
+
 
 - 🌱 I’m currently learning **Web & App Developer**
 
